@@ -1,5 +1,7 @@
 let x=3;
 let y=4;
+let m =8;
+
 
 let add =()=>{
   let sum =  x+y;
